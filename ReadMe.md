@@ -1,5 +1,5 @@
 # Introduction
-👋 I'm Sharad Kumar and I'm from NSEC CSE department 1st year. 
+👋 I'm Sharad Kumar and I'm from NSEC CSE department. 
 ## Basic details
 **NAME-** Sharad Kumar
 
@@ -20,6 +20,7 @@
 | 1. | Python |
 | 2. | Writing |
 | 3. | HTML |
+| 4. | Android Development |
 
 ## Courses
 1. Coursera
